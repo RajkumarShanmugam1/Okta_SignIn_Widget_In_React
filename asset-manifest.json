@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Okta_SignIn_Widget_In_React/static/css/main.bc2071ee.css",
+    "main.js": "/Okta_SignIn_Widget_In_React/static/js/main.683aff60.js",
+    "static/media/montserrat-okta-regular-webfont.svg": "/Okta_SignIn_Widget_In_React/static/media/montserrat-okta-regular-webfont.79ee020c048c261b0a8e.svg",
+    "static/media/montserrat-okta-light-webfont.svg": "/Okta_SignIn_Widget_In_React/static/media/montserrat-okta-light-webfont.94b013df481681d3b9ba.svg",
+    "static/media/okticon.svg": "/Okta_SignIn_Widget_In_React/static/media/okticon.415c41974fde3d0d67e5.svg",
+    "static/media/montserrat-okta-light-webfont.eot": "/Okta_SignIn_Widget_In_React/static/media/montserrat-okta-light-webfont.bced23520571bb9c6786.eot",
+    "static/media/montserrat-okta-regular-webfont.eot": "/Okta_SignIn_Widget_In_React/static/media/montserrat-okta-regular-webfont.bc9d1c64cc1eb7fe21fc.eot",
+    "static/media/montserrat-okta-light-webfont.ttf": "/Okta_SignIn_Widget_In_React/static/media/montserrat-okta-light-webfont.d7f374f771a6cf745a5f.ttf",
+    "static/media/montserrat-okta-regular-webfont.ttf": "/Okta_SignIn_Widget_In_React/static/media/montserrat-okta-regular-webfont.e08993fa295c2e06ddad.ttf",
+    "static/media/okticon.eot": "/Okta_SignIn_Widget_In_React/static/media/okticon.a812bc2c3773a792b40a.eot",
+    "static/media/okticon.ttf": "/Okta_SignIn_Widget_In_React/static/media/okticon.af5fd3a28c69172a32bf.ttf",
+    "static/media/logo512.png": "/Okta_SignIn_Widget_In_React/static/media/logo512.8e65c67df3fe529a669f.png",
+    "static/media/radiobutton-01@2x.png": "/Okta_SignIn_Widget_In_React/static/media/radiobutton-01@2x.2f10e12d6a124337f57b.png",
+    "static/media/checkbox-01@2x.png": "/Okta_SignIn_Widget_In_React/static/media/checkbox-01@2x.1294dd56f87237b78100.png",
+    "static/media/montserrat-okta-light-webfont.woff": "/Okta_SignIn_Widget_In_React/static/media/montserrat-okta-light-webfont.47314ef8b3f718bd6b25.woff",
+    "static/media/montserrat-okta-regular-webfont.woff": "/Okta_SignIn_Widget_In_React/static/media/montserrat-okta-regular-webfont.5623bc4fe19097d3a367.woff",
+    "static/media/radiobutton-01.png": "/Okta_SignIn_Widget_In_React/static/media/radiobutton-01.06ca91686a22690197da.png",
+    "static/media/okticon.woff": "/Okta_SignIn_Widget_In_React/static/media/okticon.18ead8fda945421a9af7.woff",
+    "static/media/checkbox-01.png": "/Okta_SignIn_Widget_In_React/static/media/checkbox-01.eae0329fe0b798560519.png",
+    "static/media/yubikeyDemo.png": "/Okta_SignIn_Widget_In_React/static/media/yubikeyDemo.5ebed9d6de069129f535.png",
+    "static/media/sign-on-widget-spinner.gif": "/Okta_SignIn_Widget_In_React/static/media/sign-on-widget-spinner.4d69ec9a0b3a6f2272e5.gif",
+    "static/media/u2f_usb.png": "/Okta_SignIn_Widget_In_React/static/media/u2f_usb.a1709529eeac1fb1f4ee.png",
+    "static/media/apple-app-store.svg": "/Okta_SignIn_Widget_In_React/static/media/apple-app-store.8c4986ee4828b47d16f5.svg",
+    "static/media/checkbox-sign-in-widget@2x.png": "/Okta_SignIn_Widget_In_React/static/media/checkbox-sign-in-widget@2x.c357e3c0ce3a6ad6d0b8.png",
+    "static/media/loader@1x.gif": "/Okta_SignIn_Widget_In_React/static/media/loader@1x.d322a7ce99c785c18f38.gif",
+    "static/media/google-play-store.svg": "/Okta_SignIn_Widget_In_React/static/media/google-play-store.1d8f7bc81e1b4193482d.svg",
+    "static/media/user-icon.svg": "/Okta_SignIn_Widget_In_React/static/media/user-icon.6c8f8491ebb11a78bf68.svg",
+    "index.html": "/Okta_SignIn_Widget_In_React/index.html",
+    "static/media/custom-app-default-logo.svg": "/Okta_SignIn_Widget_In_React/static/media/custom-app-default-logo.2c8dcf0b9018c42595b4.svg",
+    "main.bc2071ee.css.map": "/Okta_SignIn_Widget_In_React/static/css/main.bc2071ee.css.map",
+    "main.683aff60.js.map": "/Okta_SignIn_Widget_In_React/static/js/main.683aff60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc2071ee.css",
+    "static/js/main.683aff60.js"
+  ]
+}
