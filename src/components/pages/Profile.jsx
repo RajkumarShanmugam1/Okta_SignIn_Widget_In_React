@@ -24,13 +24,12 @@ const Profile = () => {
       <div className="container d-flex justify-content-center align-items-center">
         <Card className="p-4">
           <Card.Body>
-            <Card.Title id="welcome">Fetching user info ...</Card.Title>
+            <Card.Title id="welcome" className="container d-flex justify-content-center align-items-center">Fetching user info...</Card.Title>
           </Card.Body>
         </Card>
       </div>
     );
   }
-  console.log(userInfo);
 
   return (
     <div className="container d-flex justify-content-center align-items-center">
