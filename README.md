@@ -1,3 +1,12 @@
+# OKTA SignIn Widget Embedding and Configuring with React and Organizational OKTA  
+
+### OUTCOME
+![OKTA](https://github.com/RajkumarShanmugam1/Okta_SignIn_Widget_In_React/assets/76644058/6e6555d7-9052-4b03-b6df-d1c01b2a897f)
+
+### Reference
+- [https://developer.okta.com/docs/guides/sign-in-to-spa-embedded-widget/react/main/](https://developer.okta.com/docs/guides/sign-in-to-spa-embedded-widget/react/main/)
+
+-----
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
