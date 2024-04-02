@@ -31,6 +31,7 @@ const App = () => {
         >
           <NavBar/>
           <Route path="/" exact component={Home} />
+          <Route path="/Okta_SignIn_Widget_In_React" exact component={Home} />
           <SecureRoute path="/profile" component={Profile} />
           <Route path="/login" render={() => <Login />} />
           <Route path="/login/callback" component={LoginCallback} />
