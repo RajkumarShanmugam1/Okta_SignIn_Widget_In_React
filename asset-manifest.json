@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Okta_SignIn_Widget_In_React/static/css/main.bc2071ee.css",
-    "main.js": "/Okta_SignIn_Widget_In_React/static/js/main.683aff60.js",
+    "main.js": "/Okta_SignIn_Widget_In_React/static/js/main.5bf6d6a5.js",
     "static/media/montserrat-okta-regular-webfont.svg": "/Okta_SignIn_Widget_In_React/static/media/montserrat-okta-regular-webfont.79ee020c048c261b0a8e.svg",
     "static/media/montserrat-okta-light-webfont.svg": "/Okta_SignIn_Widget_In_React/static/media/montserrat-okta-light-webfont.94b013df481681d3b9ba.svg",
     "static/media/okticon.svg": "/Okta_SignIn_Widget_In_React/static/media/okticon.415c41974fde3d0d67e5.svg",
@@ -30,10 +30,10 @@
     "index.html": "/Okta_SignIn_Widget_In_React/index.html",
     "static/media/custom-app-default-logo.svg": "/Okta_SignIn_Widget_In_React/static/media/custom-app-default-logo.2c8dcf0b9018c42595b4.svg",
     "main.bc2071ee.css.map": "/Okta_SignIn_Widget_In_React/static/css/main.bc2071ee.css.map",
-    "main.683aff60.js.map": "/Okta_SignIn_Widget_In_React/static/js/main.683aff60.js.map"
+    "main.5bf6d6a5.js.map": "/Okta_SignIn_Widget_In_React/static/js/main.5bf6d6a5.js.map"
   },
   "entrypoints": [
     "static/css/main.bc2071ee.css",
-    "static/js/main.683aff60.js"
+    "static/js/main.5bf6d6a5.js"
   ]
 }
